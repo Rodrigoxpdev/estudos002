@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+
+
+/* seletor geral */
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+/* FORMULARIO */
+form{
+    color: white;
+    background-color: chocolate;
+    text-align: center;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    padding: 20px;
+    position: relative;
+    font-weight: bold;
+    font-size: 1.2em;
+    border-radius: 20px;
+    background-repeat: no-repeat;
+    background-position: bottom center;
+}
+
+
+form p{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-align: center;
+    display: inline-flexbox;
+    padding: 20px;
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
